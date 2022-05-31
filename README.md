@@ -1,2 +1,2 @@
 # Salute-Mentale
-Progetto per Visualizzazione Scientifica
+## Progetto Universitario per Visualizzazione Scientifica - Informatica L-31
